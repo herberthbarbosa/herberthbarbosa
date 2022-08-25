@@ -19,4 +19,4 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div> <br/>
 
-<h4> in love for technologie <h4/>
+<p> <strong> in love for technologie <strong/> </p>
