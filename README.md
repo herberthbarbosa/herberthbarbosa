@@ -1,4 +1,4 @@
-<h3> hello, i'm Herbert Barbosa 👋 </h3>
+<h3> hello, i'm Herbert Barbosa. Computer science student passionate about programming </h3>
 
 
 ![Herbert ](https://github-readme-stats.vercel.app/api?username=herberthbarbosa&show_icons=true&theme=dracula)
